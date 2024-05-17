@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **atulsoam5@gmail.com**
 
-- 📄 Know about my experiences [https://atulresume.tiiny.site/](https://atulresume.tiiny.site/)
+- 📄 Know about my experiences [https://atulsoamcv.tiiny.site](https://atulsoamcv.tiiny.site)
 
 - ⚡ Fun fact **Why did the computer go to therapy? Because it had too many unresolved issues with its user!**
 
