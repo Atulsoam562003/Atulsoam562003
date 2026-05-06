@@ -13,7 +13,7 @@
   <a href="https://github.com/Atulsoam562003" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Atulsoam562003-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://atulsoam562003.github.io/MyResume/" target="_blank">
+  <a href="https://atulsoam562003.github.io/MyResume" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View%20CV-brightgreen?style=for-the-badge" />
   </a>
 </p>
